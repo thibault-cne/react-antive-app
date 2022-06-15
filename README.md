@@ -1,1 +1,1 @@
-# react-antive-app
+# react-native-app
