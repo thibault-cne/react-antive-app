@@ -7,15 +7,13 @@
 
 1. [Installation guide](#installation-guide)
 2. [Demonstration](#demonstration)
+3. [Features](#features)
 
 ## Installation guide
 
 ``` shell
 git clone https://github.com/thibault-cne/react-native-app
 cd react-native-app
-```
-
-``` shell
 npm install
 npm start
 ```
